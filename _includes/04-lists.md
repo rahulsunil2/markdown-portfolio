@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Django
+2. Flutter
+3. React
